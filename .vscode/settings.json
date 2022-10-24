@@ -1,0 +1,8 @@
+{
+    "scm.providerCountBadge": "visible",
+    "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "zenMode.hideActivityBar": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+    "typescript.inlayHints.propertyDeclarationTypes.enabled": true
+}
