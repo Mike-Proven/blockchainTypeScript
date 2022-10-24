@@ -70,7 +70,7 @@ class Chain {
             const hash = crypto.createHash('MD5');
             hash.update((numOnlyUsedOnce + solution).toString()).end();
             const attempt = hash.digest('hex');
-            // add more 0's to make harder
+            // add more 0's to make harder, rng number looks for the number to begin with 4 0's
             if (attempt.substr(0, 4) === '0000') {
                 console.log(`Solved block with solution: ${solution}, block confirmed!`);
                 return solution;
