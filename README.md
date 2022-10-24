@@ -1,5 +1,5 @@
-# TypeScript Block Chain
-Here I'm learning TypeScript and block chain. I found a few youtube videos on it, but think I will keep working at it and maybe use some kind of clock API and base the currency on Minutes instead of difficulty, like a timer in a game that gives you points or something..
+# TypeScript Blockchain
+Here I'm learning TypeScript and blockchain. I found a few youtube videos on it, but think I will keep working at it and maybe use some kind of clock API and base the currency on Minutes instead of difficulty, like a timer in a game that gives you points or something..
 
 Just messing around with it and trying to figure a way to make it something functional that can run in multiple browsers and later get into the peer2peer code of it.
 
